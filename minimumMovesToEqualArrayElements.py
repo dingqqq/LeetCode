@@ -33,4 +33,3 @@ class Solution(object):
         """
 
         return sum(nums) - len(nums) * min(nums)
-    
